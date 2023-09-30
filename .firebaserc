@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "startbootstrap-dostesting": {
+      "hosting": {
+        "b5portfolio": [
+          "b5portfolio"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
