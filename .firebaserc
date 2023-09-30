@@ -1,5 +1,7 @@
 {
-  "projects": {},
+  "projects": {
+    "default": "startbootstrap-dostesting"
+  },
   "targets": {
     "startbootstrap-dostesting": {
       "hosting": {
@@ -8,6 +10,5 @@
         ]
       }
     }
-  },
-  "etags": {}
+  }
 }
