@@ -1,6 +1,6 @@
 /** Bootstrap Functions and Variables */
-@import '~bootstrap/scss/functions';
-@import '~bootstrap/scss/variables';
+//@import '~bootstrap/scss/functions';
+//@import '~bootstrap/scss/variables';
 
 // MY THEME COLORS
 $purple-dark: #9926f0;
@@ -25,12 +25,12 @@ $primary: $purple-dark;
 $secondary: $pink;
 $success: $green;
 
-// merge with existing $theme-colors map
-$theme-colors: map-merge($theme-colors, ("primary": $primary,
-            "secondary": $secondary, "success": $success));
+// // merge with existing $theme-colors map
+// $theme-colors: map-merge($theme-colors, ("primary": $primary,
+//             "secondary": $secondary, "success": $success));
 
 // Accordion Overrides
-$accordion-icon-color: $primary;
+$accordion-icon-color: $success;
 $accordion-icon-active-color: $secondary;
 $accordion-icon-width: 1.875rem;
 

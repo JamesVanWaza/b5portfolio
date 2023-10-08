@@ -3,6 +3,7 @@
 @use 'components/buttons';
 @use 'components/mixins';
 @use 'components/typography';
+
 /** Sections SCSS Folder */
 @use 'sections/navbar';
 @use 'sections/intro-section';
@@ -13,6 +14,7 @@
 @use 'sections/portfolio';
 @use 'sections/get-started';
 @use 'sections/footer';
+
 @import 'custom';
 
 /** Font Awesome */
