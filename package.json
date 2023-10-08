@@ -1,6 +1,6 @@
 {
     "name": "bootstrap-5-portfolio",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "description": "Getting started with Bootstrap5 Portfolio",
     "main": "index.html",
     "scripts": {
@@ -29,7 +29,7 @@
         "favicons-webpack-plugin": "^6.0.1",
         "html-webpack-plugin": "^5.5.3",
         "instantsearch.css": "^8.1.0",
-        "sass": "^1.68.0",
+        "sass": "^1.69.0",
         "sass-loader": "^13.3.2",
         "style-loader": "^3.3.3",
         "terser-webpack-plugin": "^5.3.9",
