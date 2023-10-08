@@ -10,7 +10,7 @@
         "source": "functions"
     },
     "hosting": {
-        "target": "b5portfolio",
+        "site": "b5p-fcc",
         "public": "public",
         "ignore": [
             "firebase.json",

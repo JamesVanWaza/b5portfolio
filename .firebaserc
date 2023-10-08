@@ -1,14 +1,13 @@
 {
-  "projects": {
-    "default": "startbootstrap-dostesting"
-  },
+  "projects": {},
   "targets": {
     "startbootstrap-dostesting": {
       "hosting": {
-        "b5portfolio": [
-          "b5portfolio"
+        "b5p-fcc": [
+          "b5p-portfolio"
         ]
       }
     }
-  }
+  },
+  "etags": {}
 }
