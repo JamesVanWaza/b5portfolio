@@ -3,6 +3,7 @@
 @use 'components/buttons';
 @use 'components/mixins';
 @use 'components/typography';
+@use 'components/google-fonts';
 
 /** Sections SCSS Folder */
 @use 'sections/navbar';
@@ -22,9 +23,3 @@ $fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
 @import '~@fortawesome/fontawesome-free/scss/fontawesome';
 @import '~@fortawesome/fontawesome-free/scss/solid';
 @import '~@fortawesome/fontawesome-free/scss/brands';
-
-/** Footer */
-.footer {
-    background-color: $secondary;
-    color: $white;
-}

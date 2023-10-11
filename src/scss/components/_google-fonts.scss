@@ -1,0 +1,17 @@
+@use '../custom' as *;
+
+/** Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&family=Quicksand:wght@500&display=swap');
+
+body {
+    font-family: 'Inria Serif', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Quicksand', sans-serif;
+}
