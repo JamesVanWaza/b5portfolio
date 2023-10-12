@@ -1,7 +1,9 @@
 @use '../custom' as *;
+@use '../components/mixins' as *;
 
 /** Footer */
 .footer {
-    background-color: $secondary;
+    @include gradient;
     color: $white;
+    border: 2px solid $white;
 }
