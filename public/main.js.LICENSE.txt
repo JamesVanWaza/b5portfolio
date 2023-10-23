@@ -52,6 +52,8 @@
 
 /*! ../enums.js */
 
+/*! ../images/soccer-isometric.png */
+
 /*! ../scss/style.scss */
 
 /*! ../utils/computeAutoPlacement.js */
@@ -273,6 +275,10 @@
 /*!*****************************!*\
   !*** ./src/scss/style.scss ***!
   \*****************************/
+
+/*!*****************************************!*\
+  !*** ./src/images/soccer-isometric.png ***!
+  \*****************************************/
 
 /*!**************************************************!*\
   !*** ./node_modules/@popperjs/core/lib/enums.js ***!

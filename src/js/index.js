@@ -43,3 +43,17 @@ function footer() {
     document.body.insertBefore(footerDiv, newDiv);
 }
 
+/** Importing Images */
+import Icon from '../images/soccer-isometric.png';
+
+function component() {
+    const element = document.createElement('div');
+
+    // Add the image to our existing div
+    const myIcon = new Image();
+    myIcon.src = Icon;
+
+    element.appendChild(myIcon);
+
+    return element;
+}
