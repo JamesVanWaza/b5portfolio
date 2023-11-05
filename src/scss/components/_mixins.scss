@@ -9,3 +9,11 @@
 .jsaddimage {
     background: url('../../public/assets/resource/feb174e203d3c99d4ced.png');
 }
+
+// ABSOLUTE CENTER
+@mixin absoluteCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
