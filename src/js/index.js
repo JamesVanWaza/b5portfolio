@@ -45,16 +45,16 @@ function footer() {
 
 /** Importing Images */
 // import Icon from '../images/soccer-isometric.png';
-import Icon from '../../public/assets/resource/feb174e203d3c99d4ced.png';
+// import Icon from '../../public/assets/resource/feb174e203d3c99d4ced.png';
 
-function component() {
-    const element = document.createElement('div');
+// function component() {
+//     const element = document.createElement('div');
 
-    // Add the image to our existing div
-    const myIcon = new Image();
-    myIcon.src = Icon;
+//     // Add the image to our existing div
+//     const myIcon = new Image();
+//     myIcon.src = Icon;
 
-    element.appendChild(myIcon);
+//     element.appendChild(myIcon);
 
-    return element;
-}
+//     return element;
+// }
