@@ -9,10 +9,13 @@ const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
 module.exports = {
     //	https://webpack.js.org/configuration/mode/
     mode: 'development',
-    entry: "./src/js/index.js",
+    entry: {
+        index: "./src/js/index.js",
+        lightbox: "./src/js/lightbox.js"
+    },
     output: {
         //		filename: "[name].bundle.js",
-        filename: "main.js",
+        filename: "[name].bundle.js",
         //		path: path.resolve(__dirname, "public") Can change directory name
         path: path.resolve(__dirname, "public"),
         // For the images to be loaded in the browser
