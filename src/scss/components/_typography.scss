@@ -43,6 +43,19 @@
     background-color: $primary;
 }
 
+// DISPLAY 3 
+.display-3 {
+    &--title {
+        font-size: 1.8rem;
+        text-transform: capitalize;
+        font-weight: 600;
+        display: inline-block;
+        background-image: linear-gradient(to right, $primary, $secondary);
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
 // BORDER-RIGHT
 .border-right {
     border-right: 0.1rem solid $gray-300;
