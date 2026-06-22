@@ -48,6 +48,10 @@ module.exports = {
             filename: 'theming.html',
             template: './src/html-templates/theming-template.html'
         }),
+        new HtmlWebpackPlugin({
+            filename: 'changelog.html',
+            template: './src/html-templates/changelog-template.html'
+        }),
         // Favicon
         new FaviconsWebpackPlugin({
             logo: './src/images/B5P-Color@4x.png'
