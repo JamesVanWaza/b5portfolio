@@ -10,8 +10,9 @@
     "author": "JamesVanWaza <info@dosbranding.com>",
     "license": "MIT",
     "dependencies": {
-        "@popperjs/core": "^2.11.8",
+        "@dataconnect/generated": "file:src/dataconnect-generated",
         "@fortawesome/fontawesome-free": "^7.0.0",
+        "@popperjs/core": "^2.11.8",
         "algoliasearch": "^5.35.0",
         "bootstrap": "^5.3.7",
         "firebase": "12.1.0",

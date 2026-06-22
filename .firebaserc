@@ -5,8 +5,8 @@
   "targets": {
     "startbootstrap-dostesting": {
       "hosting": {
-        "b5p-fcc": [
-          "b5p-portfolio"
+        "b5p-portfolio": [
+          "b5p-fcc"
         ]
       }
     }
