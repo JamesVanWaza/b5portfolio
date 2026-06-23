@@ -11,5 +11,9 @@
       }
     }
   },
-  "etags": {}
+  "etags": {
+    "startbootstrap-dostesting": {
+      "extensionInstances": {}
+    }
+  }
 }

@@ -22,7 +22,7 @@
     }
   ],
   "hosting": {
-    "target": "b5-portfolio",
+    "target": "b5p-portfolio",
     "public": "public",
     "ignore": [
       "firebase.json",
